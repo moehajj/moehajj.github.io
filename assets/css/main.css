@@ -3294,6 +3294,11 @@ input, select, textarea {
 				transform: translateX(-17em);
 			}
 
+			
+			ul.feature-imgs li {
+				width: 100%;
+			}
+
 	}
 
 /* XSmall */
@@ -3346,6 +3351,9 @@ input, select, textarea {
 
 			ul.feature-icons li {
 				display: block;
+				width: 100%;
+			}
+			ul.feature-imgs li {
 				width: 100%;
 			}
 
